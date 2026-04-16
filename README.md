@@ -4,34 +4,34 @@ Este projeto tem como objetivo analisar os fatores que influenciam a renda dos c
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Identificar padrões e variáveis relevantes que impactam a renda, auxiliando na tomada de decisão em contextos como análise de crédito.
 
 ---
 
-## 🔍 Etapas do Projeto
+##  Etapas do Projeto
 
-### 🧠 Parte I - Análise Exploratória
+###  Parte I - Análise Exploratória
 - Tratamento dos dados
 - Análise univariada e bivariada
 - Identificação de padrões
 
-### 💻 Parte II - Aplicação com Streamlit
+###  Parte II - Aplicação com Streamlit
 - Interface interativa
 - Filtros dinâmicos
 - Visualização gráfica
 
-### 📦 Parte III - Organização no GitHub
+###  Parte III - Organização no GitHub
 - Estruturação do repositório
 - Documentação
 
-### 🎥 Parte IV - Demonstração
+###  Parte IV - Demonstração
 - Vídeo da aplicação funcionando
 
 ---
 
-## 🎥 Demonstração
+##  Demonstração
 
 👉 Como o GitHub não exibe vídeos grandes diretamente, clique abaixo:
 
@@ -39,7 +39,7 @@ Identificar padrões e variáveis relevantes que impactam a renda, auxiliando na
 
 ---
 
-## 🚀 Como executar o projeto
+##  Como executar o projeto
 
 1. Abrir o Anaconda Prompt
 2. Navegar até a pasta do projeto
